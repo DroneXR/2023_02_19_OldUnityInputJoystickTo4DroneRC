@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3211318100297400685
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3211318100297400691}
+  - component: {fileID: 3211318100297400690}
+  m_Layer: 0
+  m_Name: 'Four XBox Old Way To Drones '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3211318100297400691
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3211318100297400685}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.5617228, y: -0.45632613, z: -0.8405403}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3211318100297400690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3211318100297400685}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10a68d1a4fad7db4b9f3157eb91e9784, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_labelDownUP: _DRC_DOWN_UP
+  m_labelRotateLeftRight: _DRC_ROTATE_LEFT_RIGHT
+  m_labelLeftRight: _DRC_LEFT_RIGHT
+  m_labelBackFront: _DRC_BACK_FRONT
+  m_deathZone: 0.05
+  m_joysticksRecovered:
+  - m_downUP: 0
+    m_rotateLeftRight: 0
+    m_leftRight: 0
+    m_backFront: 0
+  - m_downUP: 0
+    m_rotateLeftRight: 0
+    m_leftRight: 0
+    m_backFront: 0
+  - m_downUP: 0
+    m_rotateLeftRight: 0
+    m_leftRight: 0
+    m_backFront: 0
+  - m_downUP: 0
+    m_rotateLeftRight: 0
+    m_leftRight: 0
+    m_backFront: 0
+  m_joysticksRecoveredEvent:
+  - m_downUP:
+      m_PersistentCalls:
+        m_Calls: []
+    m_rotateLeftRight:
+      m_PersistentCalls:
+        m_Calls: []
+    m_leftRight:
+      m_PersistentCalls:
+        m_Calls: []
+    m_backFront:
+      m_PersistentCalls:
+        m_Calls: []
+  - m_downUP:
+      m_PersistentCalls:
+        m_Calls: []
+    m_rotateLeftRight:
+      m_PersistentCalls:
+        m_Calls: []
+    m_leftRight:
+      m_PersistentCalls:
+        m_Calls: []
+    m_backFront:
+      m_PersistentCalls:
+        m_Calls: []
+  - m_downUP:
+      m_PersistentCalls:
+        m_Calls: []
+    m_rotateLeftRight:
+      m_PersistentCalls:
+        m_Calls: []
+    m_leftRight:
+      m_PersistentCalls:
+        m_Calls: []
+    m_backFront:
+      m_PersistentCalls:
+        m_Calls: []
+  - m_downUP:
+      m_PersistentCalls:
+        m_Calls: []
+    m_rotateLeftRight:
+      m_PersistentCalls:
+        m_Calls: []
+    m_leftRight:
+      m_PersistentCalls:
+        m_Calls: []
+    m_backFront:
+      m_PersistentCalls:
+        m_Calls: []
